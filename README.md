@@ -1,4 +1,4 @@
-## Ponto e acesso de usuários.
+## Gerenciamento de ponto e acesso de usuários.
 
 
 
